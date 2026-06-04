@@ -1,0 +1,74 @@
+{
+  "car_models": {
+    "NV100": {
+      "maker": "日産",
+      "size": ""
+    },
+    "クリッパー": {
+      "maker": "三菱",
+      "size": "SS"
+    },
+    "CH-R": {
+      "maker": "トヨタ",
+      "size": ""
+    },
+    "キャラバン": {
+      "maker": "日産",
+      "size": "XL"
+    },
+    "プロボックス": {
+      "maker": "トヨタ",
+      "size": ""
+    },
+    "VOXY": {
+      "maker": "トヨタ",
+      "size": "LL"
+    },
+    "MOCO": {
+      "maker": "日産",
+      "size": "S"
+    },
+    "プレミオ": {
+      "maker": "トヨタ",
+      "size": ""
+    },
+    "jeep／ジャングル": {
+      "maker": "その他",
+      "size": ""
+    },
+    "ジャズ": {
+      "maker": "ホンダ",
+      "size": ""
+    },
+    "S80": {
+      "maker": "ボルボ",
+      "size": ""
+    },
+    "V220d": {
+      "maker": "メルセデス",
+      "size": "LL"
+    },
+    "ミニクーパー": {
+      "maker": "BMW",
+      "size": "S"
+    },
+    "eKスペース": {
+      "maker": "三菱",
+      "size": "S"
+    }
+  },
+  "tire_products": {
+    "MARQUIS": {
+      "maker": "その他"
+    },
+    "カーゴプロ": {
+      "maker": "グッドイヤー"
+    },
+    "K370": {
+      "maker": "ブリヂストン"
+    },
+    "LUFT RVⅡ": {
+      "maker": "ブリヂストン"
+    }
+  }
+}
